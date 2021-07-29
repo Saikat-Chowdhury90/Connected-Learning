@@ -52,24 +52,27 @@ body {
     margin-top: 10px;
 }
 .heading{
-    padding: 10px;
+    
     align-items: center;
+    padding: 10px;
     font-size: 2.5rem;
 }
+
 .logo-link{
     text-decoration: none;
 }
 .nav-items a{
    text-decoration: none;
-   padding:25px;
+   padding:30px;
 }
 .main-nav{
     background-color: #F0E9E8;
     display: flex;
     align-items: center;
+    /* justify-content: space-between; */
 }
 .login{
-    padding-left: 25px;
+    margin-left: 250px; 
 }
 /* common classes */
 .inline{
